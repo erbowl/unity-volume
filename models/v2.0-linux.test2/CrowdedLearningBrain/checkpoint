@@ -1,0 +1,2 @@
+model_checkpoint_path: "/unity-volume/models/v2.0-linux.test2/CrowdedLearningBrain/model-1326.cptk"
+all_model_checkpoint_paths: "/unity-volume/models/v2.0-linux.test2/CrowdedLearningBrain/model-1326.cptk"
