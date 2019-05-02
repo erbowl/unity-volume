@@ -10,7 +10,7 @@ default:
     num_layers: 2
     sequence_length: 32
     memory_size: 256
-    demo_path: crowded.v3.3.demo
+    demo_path: /content/unity-volume/crowded.v3.3.demo
 
 HallwayLearning:
     trainer: offline_bc
