@@ -1,0 +1,24 @@
+Brain name,Time to update policy,Time since start of training,Time for last experience collection,Number of experiences used for training,Mean return
+SumoLearningBrain2,26.429,165.106,118.620,10261,-1.002
+SumoLearningBrain2,23.979,340.736,96.329,10260,-0.861
+SumoLearningBrain2,36.304,507.601,113.399,10243,-0.753
+SumoLearningBrain2,19.735,681.836,112.962,10253,-0.890
+SumoLearningBrain2,16.788,846.613,105.298,10253,-1.147
+SumoLearningBrain2,19.896,995.465,96.836,10259,-1.127
+SumoLearningBrain2,16.921,1144.587,97.257,10250,-1.072
+SumoLearningBrain2,26.959,1287.750,86.261,10250,-1.000
+SumoLearningBrain2,15.403,2175.472,835.671,10245,-0.937
+SumoLearningBrain2,20.661,4542.514,2319.261,10271,-0.930
+SumoLearningBrain2,16.411,4682.057,88.134,10259,-0.948
+SumoLearningBrain2,15.185,4801.949,78.273,10249,-0.975
+SumoLearningBrain2,15.225,4931.099,82.895,10252,-0.980
+SumoLearningBrain2,13.398,5049.649,77.343,10261,-0.988
+SumoLearningBrain2,26.371,5188.358,85.974,10269,-1.002
+SumoLearningBrain2,15.532,5344.436,97.494,10245,-1.024
+SumoLearningBrain2,14.585,5478.811,92.305,10261,-0.999
+SumoLearningBrain2,17.193,5602.127,79.998,10266,-0.988
+SumoLearningBrain2,17.160,5735.437,88.800,10256,-0.964
+SumoLearningBrain2,21.825,5884.700,93.596,10262,-0.950
+SumoLearningBrain2,22.321,6023.916,86.187,10249,-0.941
+SumoLearningBrain2,38.237,6194.446,101.502,10243,-0.931
+SumoLearningBrain2,21.613,6378.390,109.865,10258,-0.930
